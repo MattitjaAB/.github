@@ -1,4 +1,4 @@
-![Mattitja AB](https://raw.githubusercontent.com/MattitjaAB/.github/refs/heads/main/img/logo/icon-512x512.png)
+![Mattitja AB](https://raw.githubusercontent.com/MattitjaAB/.github/refs/heads/main/img/logo/icon-128x128.png)
 
 # Mattitja AB
 
